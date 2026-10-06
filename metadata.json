@@ -1,0 +1,10 @@
+{
+  "name": "SwiftHaul — Weather-Smart Freight & AI Backhaul",
+  "description": "Minimalist logistics platform for Transporters, Shippers, and Drivers with live truck tracking, weather and flood-safe routing, AI predictive return loads, and a 2-free-rides + ₹500 Pro pass model.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
